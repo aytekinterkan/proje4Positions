@@ -1,0 +1,40 @@
+div.div1 {
+    border:2px solid black;
+    width:35%;
+    height:250px;
+    top:30px;
+    left:25px;
+    padding:20px;
+    background-color: red;
+    position:relative
+}
+div.div2 {
+    border:2px solid black;
+    width:35%;
+    height:300px;
+    top:30%;
+    left:30%;
+    padding:20px;
+    background-color: yellow;
+    position:absolute
+}
+div.div3 {
+    border:2px solid black;
+    width:75%;
+    height:200px;
+    bottom:45px;
+    left:45px;
+    padding:20px;
+    background-color: blue;
+    position:absolute
+}
+div.div4 {
+    border:2px solid black;
+    width:20%;
+    height:550px;
+    top:15px;
+    right:30px;
+    padding:20px;
+    background-color: grey;
+    position:absolute
+}
